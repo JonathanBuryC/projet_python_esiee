@@ -1,0 +1,396 @@
+Tri,Année,Périmètre juridique,Legal perimeter,Périmètre spatial,country,Filière,Sector,Type d'énergie,Type of energy,Production,Unité ,Méthode de consolidation,Consolidation method,city,lat,lng,population
+1.0,20220.0,Groupe EDF,EDF group,Afrique du Sud,South Africa,Éolienne,Wind,Électrique,Electric,220.9443768,GWh,Nette,Net,Johannesburg,-26.17,28.03,3435000.0
+97.0,20210.0,Groupe EDF,EDF group,Afrique du Sud,South Africa,Éolienne,Wind,Électrique,Electric,180.968205599999,GWh,Nette,Net,Johannesburg,-26.17,28.03,3435000.0
+243.0,20200.0,Groupe EDF,EDF group,Afrique du Sud,South Africa,Éolienne,Wind,Électrique,Electric,164.442,GWh,Nette,Net,Johannesburg,-26.17,28.03,3435000.0
+342.0,20190.0,Groupe EDF,EDF group,Afrique du Sud,South Africa,Éolienne,Wind,Électrique,Electric,336.46,GWh,Nette,Net,Johannesburg,-26.17,28.03,3435000.0
+2.0,20220.0,Groupe EDF,EDF group,Allemagne,Germany,Hydraulique,Hydraulic,Électrique,Electric,340.726,GWh,Nette,Net,Berlin,52.5218,13.4015,3406000.0
+3.0,20220.0,Groupe EDF,EDF group,Allemagne,Germany,Éolienne,Wind,Électrique,Electric,230.209999999999,GWh,Nette,Net,Berlin,52.5218,13.4015,3406000.0
+98.0,20210.0,Groupe EDF,EDF group,Allemagne,Germany,Éolienne,Wind,Électrique,Electric,219.07617,GWh,Nette,Net,Berlin,52.5218,13.4015,3406000.0
+99.0,20210.0,Groupe EDF,EDF group,Allemagne,Germany,Hydraulique,Hydraulic,Électrique,Electric,396.932,GWh,Nette,Net,Berlin,52.5218,13.4015,3406000.0
+236.0,20200.0,Groupe EDF,EDF group,Allemagne,Germany,Hydraulique,Hydraulic,Électrique,Electric,380.45,GWh,Nette,Net,Berlin,52.5218,13.4015,3406000.0
+244.0,20200.0,Groupe EDF,EDF group,Allemagne,Germany,Éolienne,Wind,Électrique,Electric,261.057,GWh,Nette,Net,Berlin,52.5218,13.4015,3406000.0
+343.0,20190.0,Groupe EDF,EDF group,Allemagne,Germany,Éolienne,Wind,Électrique,Electric,280.879,GWh,Nette,Net,Berlin,52.5218,13.4015,3406000.0
+4.0,20220.0,Groupe EDF,EDF group,Belgique,Belgium,Nucléaire,Nuclear,Électrique,Electric,4438.4810861,GWh,Nette,Net,Brussels,50.8333,4.3333,1743000.0
+5.0,20220.0,Groupe EDF,EDF group,Belgique,Belgium,Gaz,Gas,Électrique,Electric,1694.419796,GWh,Nette,Net,Brussels,50.8333,4.3333,1743000.0
+6.0,20220.0,Groupe EDF,EDF group,Belgique,Belgium,Hydraulique,Hydraulic,Électrique,Electric,112.3548593,GWh,Nette,Net,Brussels,50.8333,4.3333,1743000.0
+7.0,20220.0,Groupe EDF,EDF group,Belgique,Belgium,Éolienne,Wind,Électrique,Electric,795.52022,GWh,Nette,Net,Brussels,50.8333,4.3333,1743000.0
+8.0,20220.0,Groupe EDF,EDF group,Belgique,Belgium,Solaire,Solar,Électrique,Electric,0.2113804,GWh,Nette,Net,Brussels,50.8333,4.3333,1743000.0
+9.0,20220.0,Groupe EDF,EDF group,Belgique,Belgium,Gaz,Gas,Chaleur,Heat,43.2547438,GWh,Nette,Net,Brussels,50.8333,4.3333,1743000.0
+100.0,20210.0,Groupe EDF,EDF group,Belgique,Belgium,Hydraulique,Hydraulic,Électrique,Electric,193.371888,GWh,Nette,Net,Brussels,50.8333,4.3333,1743000.0
+101.0,20210.0,Groupe EDF,EDF group,Belgique,Belgium,Gaz,Gas,Électrique,Electric,1742.851987,GWh,Nette,Net,Brussels,50.8333,4.3333,1743000.0
+102.0,20210.0,Groupe EDF,EDF group,Belgique,Belgium,Éolienne,Wind,Électrique,Electric,733.0635422,GWh,Nette,Net,Brussels,50.8333,4.3333,1743000.0
+103.0,20210.0,Groupe EDF,EDF group,Belgique,Belgium,Solaire,Solar,Électrique,Electric,1.557901,GWh,Nette,Net,Brussels,50.8333,4.3333,1743000.0
+104.0,20210.0,Groupe EDF,EDF group,Belgique,Belgium,Gaz,Gas,Chaleur,Heat,52.838237,GWh,Nette,Net,Brussels,50.8333,4.3333,1743000.0
+105.0,20210.0,Groupe EDF,EDF group,Belgique,Belgium,Nucléaire,Nuclear,Électrique,Electric,6352.035127,GWh,Nette,Net,Brussels,50.8333,4.3333,1743000.0
+215.0,20200.0,Groupe EDF,EDF group,Belgique,Belgium,Nucléaire,Nuclear,Électrique,Electric,2119.0158449,GWh,Nette,Net,Brussels,50.8333,4.3333,1743000.0
+226.0,20200.0,Groupe EDF,EDF group,Belgique,Belgium,Gaz,Gas,Électrique,Electric,2279.8288919,GWh,Nette,Net,Brussels,50.8333,4.3333,1743000.0
+237.0,20200.0,Groupe EDF,EDF group,Belgique,Belgium,Hydraulique,Hydraulic,Électrique,Electric,125.4618167,GWh,Nette,Net,Brussels,50.8333,4.3333,1743000.0
+245.0,20200.0,Groupe EDF,EDF group,Belgique,Belgium,Éolienne,Wind,Électrique,Electric,844.178341,GWh,Nette,Net,Brussels,50.8333,4.3333,1743000.0
+259.0,20200.0,Groupe EDF,EDF group,Belgique,Belgium,Solaire,Solar,Électrique,Electric,1.077491,GWh,Nette,Net,Brussels,50.8333,4.3333,1743000.0
+287.0,20200.0,Groupe EDF,EDF group,Belgique,Belgium,Gaz,Gas,Chaleur,Heat,42.770216,GWh,Nette,Net,Brussels,50.8333,4.3333,1743000.0
+315.0,20190.0,Groupe EDF,EDF group,Belgique,Belgium,Nucléaire,Nuclear,Électrique,Electric,6152.7385983,GWh,Nette,Net,Brussels,50.8333,4.3333,1743000.0
+326.0,20190.0,Groupe EDF,EDF group,Belgique,Belgium,Gaz,Gas,Électrique,Electric,2066.4225343,GWh,Nette,Net,Brussels,50.8333,4.3333,1743000.0
+336.0,20190.0,Groupe EDF,EDF group,Belgique,Belgium,Hydraulique,Hydraulic,Électrique,Electric,137.5708939,GWh,Nette,Net,Brussels,50.8333,4.3333,1743000.0
+344.0,20190.0,Groupe EDF,EDF group,Belgique,Belgium,Éolienne,Wind,Électrique,Electric,408.410352,GWh,Nette,Net,Brussels,50.8333,4.3333,1743000.0
+359.0,20190.0,Groupe EDF,EDF group,Belgique,Belgium,Solaire,Solar,Électrique,Electric,1.081684293,GWh,Nette,Net,Brussels,50.8333,4.3333,1743000.0
+386.0,20190.0,Groupe EDF,EDF group,Belgique,Belgium,Gaz,Gas,Chaleur,Heat,44.576756627,GWh,Nette,Net,Brussels,50.8333,4.3333,1743000.0
+10.0,20220.0,Groupe EDF,EDF group,Brésil,Brazil,Gaz,Gas,Électrique,Electric,1480.3529191,GWh,Nette,Net,São Paulo,-23.5587,-46.625,18845000.0
+11.0,20220.0,Groupe EDF,EDF group,Brésil,Brazil,Hydraulique,Hydraulic,Électrique,Electric,829.0978557,GWh,Nette,Net,São Paulo,-23.5587,-46.625,18845000.0
+12.0,20220.0,Groupe EDF,EDF group,Brésil,Brazil,Éolienne,Wind,Électrique,Electric,2520.9764,GWh,Nette,Net,São Paulo,-23.5587,-46.625,18845000.0
+13.0,20220.0,Groupe EDF,EDF group,Brésil,Brazil,Solaire,Solar,Électrique,Electric,399.770999999999,GWh,Nette,Net,São Paulo,-23.5587,-46.625,18845000.0
+106.0,20210.0,Groupe EDF,EDF group,Brésil,Brazil,Gaz,Gas,Électrique,Electric,7134.569485,GWh,Nette,Net,São Paulo,-23.5587,-46.625,18845000.0
+107.0,20210.0,Groupe EDF,EDF group,Brésil,Brazil,Hydraulique,Hydraulic,Électrique,Electric,711.3072,GWh,Nette,Net,São Paulo,-23.5587,-46.625,18845000.0
+108.0,20210.0,Groupe EDF,EDF group,Brésil,Brazil,Éolienne,Wind,Électrique,Electric,1705.101015,GWh,Nette,Net,São Paulo,-23.5587,-46.625,18845000.0
+109.0,20210.0,Groupe EDF,EDF group,Brésil,Brazil,Solaire,Solar,Électrique,Electric,388.512325,GWh,Nette,Net,São Paulo,-23.5587,-46.625,18845000.0
+227.0,20200.0,Groupe EDF,EDF group,Brésil,Brazil,Gaz,Gas,Électrique,Electric,5340.574716,GWh,Nette,Net,São Paulo,-23.5587,-46.625,18845000.0
+238.0,20200.0,Groupe EDF,EDF group,Brésil,Brazil,Hydraulique,Hydraulic,Électrique,Electric,300.8043342,GWh,Nette,Net,São Paulo,-23.5587,-46.625,18845000.0
+246.0,20200.0,Groupe EDF,EDF group,Brésil,Brazil,Éolienne,Wind,Électrique,Electric,879.915,GWh,Nette,Net,São Paulo,-23.5587,-46.625,18845000.0
+260.0,20200.0,Groupe EDF,EDF group,Brésil,Brazil,Solaire,Solar,Électrique,Electric,378.699,GWh,Nette,Net,São Paulo,-23.5587,-46.625,18845000.0
+327.0,20190.0,Groupe EDF,EDF group,Brésil,Brazil,Gaz,Gas,Électrique,Electric,6475.17955,GWh,Nette,Net,São Paulo,-23.5587,-46.625,18845000.0
+337.0,20190.0,Groupe EDF,EDF group,Brésil,Brazil,Hydraulique,Hydraulic,Électrique,Electric,144.73477986,GWh,Nette,Net,São Paulo,-23.5587,-46.625,18845000.0
+345.0,20190.0,Groupe EDF,EDF group,Brésil,Brazil,Éolienne,Wind,Électrique,Electric,829.594,GWh,Nette,Net,São Paulo,-23.5587,-46.625,18845000.0
+360.0,20190.0,Groupe EDF,EDF group,Brésil,Brazil,Solaire,Solar,Électrique,Electric,415.5,GWh,Nette,Net,São Paulo,-23.5587,-46.625,18845000.0
+14.0,20220.0,Groupe EDF,EDF group,Canada,Canada,Éolienne,Wind,Électrique,Electric,2092.9918,GWh,Nette,Net,Toronto,43.7,-79.42,5213000.0
+15.0,20220.0,Groupe EDF,EDF group,Canada,Canada,Solaire,Solar,Électrique,Electric,43.6325,GWh,Nette,Net,Toronto,43.7,-79.42,5213000.0
+110.0,20210.0,Groupe EDF,EDF group,Canada,Canada,Éolienne,Wind,Électrique,Electric,2037.8922,GWh,Nette,Net,Toronto,43.7,-79.42,5213000.0
+111.0,20210.0,Groupe EDF,EDF group,Canada,Canada,Solaire,Solar,Électrique,Electric,47.879,GWh,Nette,Net,Toronto,43.7,-79.42,5213000.0
+247.0,20200.0,Groupe EDF,EDF group,Canada,Canada,Éolienne,Wind,Électrique,Electric,2104.438,GWh,Nette,Net,Toronto,43.7,-79.42,5213000.0
+261.0,20200.0,Groupe EDF,EDF group,Canada,Canada,Solaire,Solar,Électrique,Electric,46.024,GWh,Nette,Net,Toronto,43.7,-79.42,5213000.0
+346.0,20190.0,Groupe EDF,EDF group,Canada,Canada,Éolienne,Wind,Électrique,Electric,1932.182,GWh,Nette,Net,Toronto,43.7,-79.42,5213000.0
+361.0,20190.0,Groupe EDF,EDF group,Canada,Canada,Solaire,Solar,Électrique,Electric,58.3817539074,GWh,Nette,Net,Toronto,43.7,-79.42,5213000.0
+16.0,20220.0,Groupe EDF,EDF group,République populaire de Chine,People's Republic of China,Nucléaire,Nuclear,Électrique,Electric,3723.3,GWh,Nette,Net,,,,
+17.0,20220.0,Groupe EDF,EDF group,République populaire de Chine,People's Republic of China,Charbon,Coal,Électrique,Electric,8274.8603,GWh,Nette,Net,,,,
+18.0,20220.0,Groupe EDF,EDF group,République populaire de Chine,People's Republic of China,Éolienne,Wind,Électrique,Electric,995.5147601,GWh,Nette,Net,,,,
+19.0,20220.0,Groupe EDF,EDF group,République populaire de Chine,People's Republic of China,Solaire,Solar,Électrique,Electric,122.21948,GWh,Nette,Net,,,,
+20.0,20220.0,Groupe EDF,EDF group,République populaire de Chine,People's Republic of China,Biomasse,Biomass,Électrique,Electric,5.25,GWh,Nette,Net,,,,
+112.0,20210.0,Groupe EDF,EDF group,République populaire de Chine,People's Republic of China,Nucléaire,Nuclear,Électrique,Electric,5546.1,GWh,Nette,Net,,,,
+113.0,20210.0,Groupe EDF,EDF group,République populaire de Chine,People's Republic of China,Charbon,Coal,Électrique,Electric,9303.182,GWh,Nette,Net,,,,
+114.0,20210.0,Groupe EDF,EDF group,République populaire de Chine,People's Republic of China,Éolienne,Wind,Électrique,Electric,727.422721599999,GWh,Nette,Net,,,,
+115.0,20210.0,Groupe EDF,EDF group,République populaire de Chine,People's Republic of China,Solaire,Solar,Électrique,Electric,107.96545,GWh,Nette,Net,,,,
+116.0,20210.0,Groupe EDF,EDF group,République populaire de Chine,People's Republic of China,Biomasse,Biomass,Électrique,Electric,103.35,GWh,Nette,Net,,,,
+216.0,20200.0,Groupe EDF,EDF group,République populaire de Chine,People's Republic of China,Nucléaire,Nuclear,Électrique,Electric,6471.0,GWh,Nette,Net,,,,
+220.0,20200.0,Groupe EDF,EDF group,République populaire de Chine,People's Republic of China,Charbon,Coal,Électrique,Electric,8697.09456,GWh,Nette,Net,,,,
+248.0,20200.0,Groupe EDF,EDF group,République populaire de Chine,People's Republic of China,Éolienne,Wind,Électrique,Electric,392.015,GWh,Nette,Net,,,,
+262.0,20200.0,Groupe EDF,EDF group,République populaire de Chine,People's Republic of China,Solaire,Solar,Électrique,Electric,98.859,GWh,Nette,Net,,,,
+316.0,20190.0,Groupe EDF,EDF group,République populaire de Chine,People's Republic of China,Nucléaire,Nuclear,Électrique,Electric,4851.0,GWh,Nette,Net,,,,
+320.0,20190.0,Groupe EDF,EDF group,République populaire de Chine,People's Republic of China,Charbon,Coal,Électrique,Electric,9462.06646,GWh,Nette,Net,,,,
+347.0,20190.0,Groupe EDF,EDF group,République populaire de Chine,People's Republic of China,Éolienne,Wind,Électrique,Electric,244.039,GWh,Nette,Net,,,,
+362.0,20190.0,Groupe EDF,EDF group,République populaire de Chine,People's Republic of China,Solaire,Solar,Électrique,Electric,93.16,GWh,Nette,Net,,,,
+21.0,20220.0,Groupe EDF,EDF group,Espagne,Spain,Gaz,Gas,Électrique,Electric,24.9500250975,GWh,Nette,Net,Madrid,40.4,-3.6834,5567000.0
+22.0,20220.0,Groupe EDF,EDF group,Espagne,Spain,Solaire,Solar,Électrique,Electric,3.3460093658571,GWh,Nette,Net,Madrid,40.4,-3.6834,5567000.0
+23.0,20220.0,Groupe EDF,EDF group,Espagne,Spain,Gaz,Gas,Chaleur,Heat,176.06881563192,GWh,Nette,Net,Madrid,40.4,-3.6834,5567000.0
+117.0,20210.0,Groupe EDF,EDF group,Espagne,Spain,Gaz,Gas,Électrique,Electric,38.3074229948852,GWh,Nette,Net,Madrid,40.4,-3.6834,5567000.0
+118.0,20210.0,Groupe EDF,EDF group,Espagne,Spain,Solaire,Solar,Électrique,Electric,1.66692764197755,GWh,Nette,Net,Madrid,40.4,-3.6834,5567000.0
+119.0,20210.0,Groupe EDF,EDF group,Espagne,Spain,Gaz,Gas,Chaleur,Heat,175.447433705546,GWh,Nette,Net,Madrid,40.4,-3.6834,5567000.0
+228.0,20200.0,Groupe EDF,EDF group,Espagne,Spain,Gaz,Gas,Électrique,Electric,31.5000013495,GWh,Nette,Net,Madrid,40.4,-3.6834,5567000.0
+263.0,20200.0,Groupe EDF,EDF group,Espagne,Spain,Solaire,Solar,Électrique,Electric,0.625433719653,GWh,Nette,Net,Madrid,40.4,-3.6834,5567000.0
+288.0,20200.0,Groupe EDF,EDF group,Espagne,Spain,Gaz,Gas,Chaleur,Heat,170.693054642,GWh,Nette,Net,Madrid,40.4,-3.6834,5567000.0
+328.0,20190.0,Groupe EDF,EDF group,Espagne,Spain,Gaz,Gas,Électrique,Electric,22.3373743988,GWh,Nette,Net,Madrid,40.4,-3.6834,5567000.0
+363.0,20190.0,Groupe EDF,EDF group,Espagne,Spain,Solaire,Solar,Électrique,Electric,0.14995888605,GWh,Nette,Net,Madrid,40.4,-3.6834,5567000.0
+387.0,20190.0,Groupe EDF,EDF group,Espagne,Spain,Gaz,Gas,Chaleur,Heat,20.4557295,GWh,Nette,Net,Madrid,40.4,-3.6834,5567000.0
+24.0,20220.0,Groupe EDF,EDF group,France,France,Nucléaire,Nuclear,Électrique,Electric,278959.718,GWh,Nette,Net,Paris,48.8667,2.3333,9904000.0
+25.0,20220.0,Groupe EDF,EDF group,France,France,Charbon,Coal,Électrique,Electric,1703.49496,GWh,Nette,Net,Paris,48.8667,2.3333,9904000.0
+26.0,20220.0,Groupe EDF,EDF group,France,France,Fioul,Fioul,Électrique,Electric,5390.03786204645,GWh,Nette,Net,Paris,48.8667,2.3333,9904000.0
+27.0,20220.0,Groupe EDF,EDF group,France,France,Gaz,Gas,Électrique,Electric,11927.69618366,GWh,Nette,Net,Paris,48.8667,2.3333,9904000.0
+28.0,20220.0,Groupe EDF,EDF group,France,France,Hydraulique,Hydraulic,Électrique,Electric,33999.2257128562,GWh,Nette,Net,Paris,48.8667,2.3333,9904000.0
+29.0,20220.0,Groupe EDF,EDF group,France,France,Éolienne,Wind,Électrique,Electric,3598.62006526509,GWh,Nette,Net,Paris,48.8667,2.3333,9904000.0
+30.0,20220.0,Groupe EDF,EDF group,France,France,Solaire,Solar,Électrique,Electric,525.600918499999,GWh,Nette,Net,Paris,48.8667,2.3333,9904000.0
+31.0,20220.0,Groupe EDF,EDF group,France,France,Géothermie,Geothermal,Électrique,Electric,3.487984,GWh,Nette,Net,Paris,48.8667,2.3333,9904000.0
+32.0,20220.0,Groupe EDF,EDF group,France,France,Biomasse,Biomass,Électrique,Electric,867.85049882,GWh,Nette,Net,Paris,48.8667,2.3333,9904000.0
+33.0,20220.0,Groupe EDF,EDF group,France,France,Énergie marine,Marine energy,Électrique,Electric,548.784,GWh,Nette,Net,Paris,48.8667,2.3333,9904000.0
+34.0,20220.0,Groupe EDF,EDF group,France,France,Fioul,Fioul,Chaleur,Heat,231.0295005791,GWh,Nette,Net,Paris,48.8667,2.3333,9904000.0
+35.0,20220.0,Groupe EDF,EDF group,France,France,Gaz,Gas,Chaleur,Heat,13283.3729166654,GWh,Nette,Net,Paris,48.8667,2.3333,9904000.0
+36.0,20220.0,Groupe EDF,EDF group,France,France,Divers,Various,Chaleur,Heat,15.676611026416,GWh,Nette,Net,Paris,48.8667,2.3333,9904000.0
+37.0,20220.0,Groupe EDF,EDF group,France,France,Autres ENR,Other Renewable Energies,Chaleur,Heat,8731.28640905511,GWh,Nette,Net,Paris,48.8667,2.3333,9904000.0
+120.0,20210.0,Groupe EDF,EDF group,France,France,Nucléaire,Nuclear,Électrique,Electric,354394.205,GWh,Nette,Net,Paris,48.8667,2.3333,9904000.0
+121.0,20210.0,Groupe EDF,EDF group,France,France,Charbon,Coal,Électrique,Electric,3097.606,GWh,Nette,Net,Paris,48.8667,2.3333,9904000.0
+122.0,20210.0,Groupe EDF,EDF group,France,France,Fioul,Fioul,Électrique,Electric,5218.7929,GWh,Nette,Net,Paris,48.8667,2.3333,9904000.0
+123.0,20210.0,Groupe EDF,EDF group,France,France,Gaz,Gas,Électrique,Electric,9800.98476508,GWh,Nette,Net,Paris,48.8667,2.3333,9904000.0
+124.0,20210.0,Groupe EDF,EDF group,France,France,Hydraulique,Hydraulic,Électrique,Electric,43330.7899136,GWh,Nette,Net,Paris,48.8667,2.3333,9904000.0
+125.0,20210.0,Groupe EDF,EDF group,France,France,Éolienne,Wind,Électrique,Electric,3396.2569246,GWh,Nette,Net,Paris,48.8667,2.3333,9904000.0
+126.0,20210.0,Groupe EDF,EDF group,France,France,Solaire,Solar,Électrique,Electric,349.848924399999,GWh,Nette,Net,Paris,48.8667,2.3333,9904000.0
+127.0,20210.0,Groupe EDF,EDF group,France,France,Géothermie,Geothermal,Électrique,Electric,3.7459264,GWh,Nette,Net,Paris,48.8667,2.3333,9904000.0
+128.0,20210.0,Groupe EDF,EDF group,France,France,Biomasse,Biomass,Électrique,Electric,767.7651405,GWh,Nette,Net,Paris,48.8667,2.3333,9904000.0
+129.0,20210.0,Groupe EDF,EDF group,France,France,Énergie marine,Marine energy,Électrique,Electric,543.049,GWh,Nette,Net,Paris,48.8667,2.3333,9904000.0
+130.0,20210.0,Groupe EDF,EDF group,France,France,Divers,Various,Électrique,Electric,118.988564,GWh,Nette,Net,Paris,48.8667,2.3333,9904000.0
+131.0,20210.0,Groupe EDF,EDF group,France,France,Charbon,Coal,Chaleur,Heat,15.6710738195347,GWh,Nette,Net,Paris,48.8667,2.3333,9904000.0
+132.0,20210.0,Groupe EDF,EDF group,France,France,Fioul,Fioul,Chaleur,Heat,221.085093684972,GWh,Nette,Net,Paris,48.8667,2.3333,9904000.0
+133.0,20210.0,Groupe EDF,EDF group,France,France,Gaz,Gas,Chaleur,Heat,14597.6366149675,GWh,Nette,Net,Paris,48.8667,2.3333,9904000.0
+134.0,20210.0,Groupe EDF,EDF group,France,France,Divers,Various,Chaleur,Heat,374.620492381667,GWh,Nette,Net,Paris,48.8667,2.3333,9904000.0
+135.0,20210.0,Groupe EDF,EDF group,France,France,Autres ENR,Other Renewable Energies,Chaleur,Heat,7848.24067660148,GWh,Nette,Net,Paris,48.8667,2.3333,9904000.0
+217.0,20200.0,Groupe EDF,EDF group,France,France,Nucléaire,Nuclear,Électrique,Electric,330004.38633,GWh,Nette,Net,Paris,48.8667,2.3333,9904000.0
+221.0,20200.0,Groupe EDF,EDF group,France,France,Charbon,Coal,Électrique,Electric,1143.633,GWh,Nette,Net,Paris,48.8667,2.3333,9904000.0
+224.0,20200.0,Groupe EDF,EDF group,France,France,Fioul,Fioul,Électrique,Electric,4688.46812992,GWh,Nette,Net,Paris,48.8667,2.3333,9904000.0
+229.0,20200.0,Groupe EDF,EDF group,France,France,Gaz,Gas,Électrique,Electric,10310.9313863,GWh,Nette,Net,Paris,48.8667,2.3333,9904000.0
+239.0,20200.0,Groupe EDF,EDF group,France,France,Hydraulique,Hydraulic,Électrique,Electric,46097.316304,GWh,Nette,Net,Paris,48.8667,2.3333,9904000.0
+249.0,20200.0,Groupe EDF,EDF group,France,France,Éolienne,Wind,Électrique,Electric,3466.638208,GWh,Nette,Net,Paris,48.8667,2.3333,9904000.0
+264.0,20200.0,Groupe EDF,EDF group,France,France,Solaire,Solar,Électrique,Electric,293.78224712,GWh,Nette,Net,Paris,48.8667,2.3333,9904000.0
+275.0,20200.0,Groupe EDF,EDF group,France,France,Géothermie,Geothermal,Électrique,Electric,2.4376,GWh,Nette,Net,Paris,48.8667,2.3333,9904000.0
+276.0,20200.0,Groupe EDF,EDF group,France,France,Biomasse,Biomass,Électrique,Electric,886.981992157,GWh,Nette,Net,Paris,48.8667,2.3333,9904000.0
+279.0,20200.0,Groupe EDF,EDF group,France,France,Énergie marine,Marine energy,Électrique,Electric,539.947,GWh,Nette,Net,Paris,48.8667,2.3333,9904000.0
+280.0,20200.0,Groupe EDF,EDF group,France,France,Divers,Various,Électrique,Electric,237.977012217,GWh,Nette,Net,Paris,48.8667,2.3333,9904000.0
+283.0,20200.0,Groupe EDF,EDF group,France,France,Charbon,Coal,Chaleur,Heat,14.40095424,GWh,Nette,Net,Paris,48.8667,2.3333,9904000.0
+285.0,20200.0,Groupe EDF,EDF group,France,France,Fioul,Fioul,Chaleur,Heat,206.146258188,GWh,Nette,Net,Paris,48.8667,2.3333,9904000.0
+289.0,20200.0,Groupe EDF,EDF group,France,France,Gaz,Gas,Chaleur,Heat,12865.8171787,GWh,Nette,Net,Paris,48.8667,2.3333,9904000.0
+292.0,20200.0,Groupe EDF,EDF group,France,France,Divers,Various,Chaleur,Heat,672.268023364,GWh,Nette,Net,Paris,48.8667,2.3333,9904000.0
+295.0,20200.0,Groupe EDF,EDF group,France,France,Autres ENR,Other Renewable Energies,Chaleur,Heat,8524.77091302,GWh,Nette,Net,Paris,48.8667,2.3333,9904000.0
+317.0,20190.0,Groupe EDF,EDF group,France,France,Nucléaire,Nuclear,Électrique,Electric,368131.21913,GWh,Nette,Net,Paris,48.8667,2.3333,9904000.0
+321.0,20190.0,Groupe EDF,EDF group,France,France,Charbon,Coal,Électrique,Electric,927.388841333,GWh,Nette,Net,Paris,48.8667,2.3333,9904000.0
+324.0,20190.0,Groupe EDF,EDF group,France,France,Fioul,Fioul,Électrique,Electric,4825.69600362,GWh,Nette,Net,Paris,48.8667,2.3333,9904000.0
+329.0,20190.0,Groupe EDF,EDF group,France,France,Gaz,Gas,Électrique,Electric,11978.1062586,GWh,Nette,Net,Paris,48.8667,2.3333,9904000.0
+338.0,20190.0,Groupe EDF,EDF group,France,France,Hydraulique,Hydraulic,Électrique,Electric,41336.8801009,GWh,Nette,Net,Paris,48.8667,2.3333,9904000.0
+348.0,20190.0,Groupe EDF,EDF group,France,France,Éolienne,Wind,Électrique,Electric,3230.9025686,GWh,Nette,Net,Paris,48.8667,2.3333,9904000.0
+364.0,20190.0,Groupe EDF,EDF group,France,France,Solaire,Solar,Électrique,Electric,260.210142955,GWh,Nette,Net,Paris,48.8667,2.3333,9904000.0
+375.0,20190.0,Groupe EDF,EDF group,France,France,Géothermie,Geothermal,Électrique,Electric,3.714016,GWh,Nette,Net,Paris,48.8667,2.3333,9904000.0
+376.0,20190.0,Groupe EDF,EDF group,France,France,Biomasse,Biomass,Électrique,Electric,1044.1894516,GWh,Nette,Net,Paris,48.8667,2.3333,9904000.0
+379.0,20190.0,Groupe EDF,EDF group,France,France,Énergie marine,Marine energy,Électrique,Electric,531.652,GWh,Nette,Net,Paris,48.8667,2.3333,9904000.0
+380.0,20190.0,Groupe EDF,EDF group,France,France,Divers,Various,Électrique,Electric,264.5941482,GWh,Nette,Net,Paris,48.8667,2.3333,9904000.0
+383.0,20190.0,Groupe EDF,EDF group,France,France,Charbon,Coal,Chaleur,Heat,94.1075016,GWh,Nette,Net,Paris,48.8667,2.3333,9904000.0
+385.0,20190.0,Groupe EDF,EDF group,France,France,Fioul,Fioul,Chaleur,Heat,266.7828342,GWh,Nette,Net,Paris,48.8667,2.3333,9904000.0
+388.0,20190.0,Groupe EDF,EDF group,France,France,Gaz,Gas,Chaleur,Heat,14395.6913996,GWh,Nette,Net,Paris,48.8667,2.3333,9904000.0
+390.0,20190.0,Groupe EDF,EDF group,France,France,Divers,Various,Chaleur,Heat,3069.10743,GWh,Nette,Net,Paris,48.8667,2.3333,9904000.0
+393.0,20190.0,Groupe EDF,EDF group,France,France,Autres ENR,Other Renewable Energies,Chaleur,Heat,8479.3125536,GWh,Nette,Net,Paris,48.8667,2.3333,9904000.0
+38.0,20220.0,Groupe EDF,EDF group,Grèce,Greece,Gaz,Gas,Électrique,Electric,1570.8301106685,GWh,Nette,Net,Athens,37.9833,23.7333,3242000.0
+39.0,20220.0,Groupe EDF,EDF group,Grèce,Greece,Éolienne,Wind,Électrique,Electric,506.721865774619,GWh,Nette,Net,Athens,37.9833,23.7333,3242000.0
+40.0,20220.0,Groupe EDF,EDF group,Grèce,Greece,Solaire,Solar,Électrique,Electric,73.8371193999999,GWh,Nette,Net,Athens,37.9833,23.7333,3242000.0
+136.0,20210.0,Groupe EDF,EDF group,Grèce,Greece,Gaz,gas,Électrique,Electric,1834.07063205,GWh,Nette,Net,Athens,37.9833,23.7333,3242000.0
+137.0,20210.0,Groupe EDF,EDF group,Grèce,Greece,Éolienne,Wind,Électrique,Electric,509.05868721103,GWh,Nette,Net,Athens,37.9833,23.7333,3242000.0
+138.0,20210.0,Groupe EDF,EDF group,Grèce,Greece,Solaire,Solar,Électrique,Electric,18.578882,GWh,Nette,Net,Athens,37.9833,23.7333,3242000.0
+230.0,20200.0,Groupe EDF,EDF group,Grèce,Greece,Gaz,Gas,Électrique,Electric,1607.71109725,GWh,Nette,Net,Athens,37.9833,23.7333,3242000.0
+250.0,20200.0,Groupe EDF,EDF group,Grèce,Greece,Éolienne,Wind,Électrique,Electric,508.248,GWh,Nette,Net,Athens,37.9833,23.7333,3242000.0
+265.0,20200.0,Groupe EDF,EDF group,Grèce,Greece,Solaire,Solar,Électrique,Electric,20.167,GWh,Nette,Net,Athens,37.9833,23.7333,3242000.0
+330.0,20190.0,Groupe EDF,EDF group,Grèce,Greece,Gaz,Gas,Électrique,Electric,1423.3547,GWh,Nette,Net,Athens,37.9833,23.7333,3242000.0
+349.0,20190.0,Groupe EDF,EDF group,Grèce,Greece,Éolienne,Wind,Électrique,Electric,521.497,GWh,Nette,Net,Athens,37.9833,23.7333,3242000.0
+365.0,20190.0,Groupe EDF,EDF group,Grèce,Greece,Solaire,Solar,Électrique,Electric,18.645,GWh,Nette,Net,Athens,37.9833,23.7333,3242000.0
+41.0,20220.0,Groupe EDF,EDF group,Inde,India,Éolienne,Wind,Électrique,Electric,642.8216,GWh,Nette,Net,Mumbai,19.017,72.857,18978000.0
+42.0,20220.0,Groupe EDF,EDF group,Inde,India,Solaire,Solar,Électrique,Electric,541.730932499999,GWh,Nette,Net,Mumbai,19.017,72.857,18978000.0
+139.0,20210.0,Groupe EDF,EDF group,Inde,India,Éolienne,Wind,Électrique,Electric,513.8141,GWh,Nette,Net,Mumbai,19.017,72.857,18978000.0
+140.0,20210.0,Groupe EDF,EDF group,Inde,India,Solaire,Solar,Électrique,Electric,275.64825675,GWh,Nette,Net,Mumbai,19.017,72.857,18978000.0
+251.0,20200.0,Groupe EDF,EDF group,Inde,India,Éolienne,Wind,Électrique,Electric,462.877,GWh,Nette,Net,Mumbai,19.017,72.857,18978000.0
+266.0,20200.0,Groupe EDF,EDF group,Inde,India,Solaire,Solar,Électrique,Electric,157.207,GWh,Nette,Net,Mumbai,19.017,72.857,18978000.0
+350.0,20190.0,Groupe EDF,EDF group,Inde,India,Éolienne,Wind,Électrique,Electric,305.601,GWh,Nette,Net,Mumbai,19.017,72.857,18978000.0
+366.0,20190.0,Groupe EDF,EDF group,Inde,India,Solaire,Solar,Électrique,Electric,169.427,GWh,Nette,Net,Mumbai,19.017,72.857,18978000.0
+43.0,20220.0,Groupe EDF,EDF group,Israël,Israel,Solaire,Solar,Électrique,Electric,583.920865337999,GWh,Nette,Net,Tel Aviv-Yafo,32.08,34.77,3112000.0
+141.0,20210.0,Groupe EDF,EDF group,Israël,Israel,Solaire,Solar,Électrique,Electric,495.00525894,GWh,Nette,Net,Tel Aviv-Yafo,32.08,34.77,3112000.0
+267.0,20200.0,Groupe EDF,EDF group,Israël,Israel,Solaire,Solar,Électrique,Electric,373.695,GWh,Nette,Net,Tel Aviv-Yafo,32.08,34.77,3112000.0
+367.0,20190.0,Groupe EDF,EDF group,Israël,Israel,Solaire,Solar,Électrique,Electric,398.586,GWh,Nette,Net,Tel Aviv-Yafo,32.08,34.77,3112000.0
+44.0,20220.0,Groupe EDF,EDF group,Italie,Italy,Gaz,Gas,Électrique,Electric,15782.6176153403,GWh,Nette,Net,Rome,41.896,12.4833,3339000.0
+45.0,20220.0,Groupe EDF,EDF group,Italie,Italy,Hydraulique,Hydraulic,Électrique,Electric,1528.1519126507,GWh,Nette,Net,Rome,41.896,12.4833,3339000.0
+46.0,20220.0,Groupe EDF,EDF group,Italie,Italy,Éolienne,Wind,Électrique,Electric,896.644733268748,GWh,Nette,Net,Rome,41.896,12.4833,3339000.0
+47.0,20220.0,Groupe EDF,EDF group,Italie,Italy,Solaire,Solar,Électrique,Electric,57.9984733902504,GWh,Nette,Net,Rome,41.896,12.4833,3339000.0
+48.0,20220.0,Groupe EDF,EDF group,Italie,Italy,Biomasse,Biomass,Électrique,Electric,18.7490010567,GWh,Nette,Net,Rome,41.896,12.4833,3339000.0
+49.0,20220.0,Groupe EDF,EDF group,Italie,Italy,Divers,Various,Électrique,Electric,37.748028297,GWh,Nette,Net,Rome,41.896,12.4833,3339000.0
+50.0,20220.0,Groupe EDF,EDF group,Italie,Italy,Fioul,Fioul,Chaleur,Heat,0.1765255,GWh,Nette,Net,Rome,41.896,12.4833,3339000.0
+51.0,20220.0,Groupe EDF,EDF group,Italie,Italy,Gaz,Gas,Chaleur,Heat,2354.82029694584,GWh,Nette,Net,Rome,41.896,12.4833,3339000.0
+52.0,20220.0,Groupe EDF,EDF group,Italie,Italy,Autres ENR,Other Renewable Energies,Chaleur,Heat,62.985594,GWh,Nette,Net,Rome,41.896,12.4833,3339000.0
+142.0,20210.0,Groupe EDF,EDF group,Italie,Italy,Gaz,Gas,Électrique,Electric,12367.0822525502,GWh,Nette,Net,Rome,41.896,12.4833,3339000.0
+143.0,20210.0,Groupe EDF,EDF group,Italie,Italy,Hydraulique,Hydraulic,Électrique,Electric,2810.61188441179,GWh,Nette,Net,Rome,41.896,12.4833,3339000.0
+144.0,20210.0,Groupe EDF,EDF group,Italie,Italy,Éolienne,Wind,Électrique,Electric,1478.72093,GWh,Nette,Net,Rome,41.896,12.4833,3339000.0
+145.0,20210.0,Groupe EDF,EDF group,Italie,Italy,Solaire,Solar,Électrique,Electric,102.232557,GWh,Nette,Net,Rome,41.896,12.4833,3339000.0
+146.0,20210.0,Groupe EDF,EDF group,Italie,Italy,Biomasse,Biomass,Électrique,Electric,18.2961393,GWh,Nette,Net,Rome,41.896,12.4833,3339000.0
+147.0,20210.0,Groupe EDF,EDF group,Italie,Italy,Divers,Various,Électrique,Electric,32.61783126,GWh,Nette,Net,Rome,41.896,12.4833,3339000.0
+148.0,20210.0,Groupe EDF,EDF group,Italie,Italy,Fioul,Fioul,Chaleur,Heat,0.261985070406,GWh,Nette,Net,Rome,41.896,12.4833,3339000.0
+149.0,20210.0,Groupe EDF,EDF group,Italie,Italy,Gaz,Gas,Chaleur,Heat,2884.812111,GWh,Nette,Net,Rome,41.896,12.4833,3339000.0
+150.0,20210.0,Groupe EDF,EDF group,Italie,Italy,Autres ENR,Other Renewable Energies,Chaleur,Heat,70.008721075038,GWh,Nette,Net,Rome,41.896,12.4833,3339000.0
+231.0,20200.0,Groupe EDF,EDF group,Italie,Italy,Gaz,Gas,Électrique,Electric,13457.6964766,GWh,Nette,Net,Rome,41.896,12.4833,3339000.0
+240.0,20200.0,Groupe EDF,EDF group,Italie,Italy,Hydraulique,Hydraulic,Électrique,Electric,3130.3704745,GWh,Nette,Net,Rome,41.896,12.4833,3339000.0
+252.0,20200.0,Groupe EDF,EDF group,Italie,Italy,Éolienne,Wind,Électrique,Electric,743.949074885,GWh,Nette,Net,Rome,41.896,12.4833,3339000.0
+268.0,20200.0,Groupe EDF,EDF group,Italie,Italy,Solaire,Solar,Électrique,Electric,104.986866301,GWh,Nette,Net,Rome,41.896,12.4833,3339000.0
+277.0,20200.0,Groupe EDF,EDF group,Italie,Italy,Biomasse,Biomass,Électrique,Electric,8.96440601,GWh,Nette,Net,Rome,41.896,12.4833,3339000.0
+281.0,20200.0,Groupe EDF,EDF group,Italie,Italy,Divers,Various,Électrique,Electric,34.635679,GWh,Nette,Net,Rome,41.896,12.4833,3339000.0
+286.0,20200.0,Groupe EDF,EDF group,Italie,Italy,Fioul,Fioul,Chaleur,Heat,0.185155,GWh,Nette,Net,Rome,41.896,12.4833,3339000.0
+290.0,20200.0,Groupe EDF,EDF group,Italie,Italy,Gaz,Gas,Chaleur,Heat,2368.34503079,GWh,Nette,Net,Rome,41.896,12.4833,3339000.0
+296.0,20200.0,Groupe EDF,EDF group,Italie,Italy,Autres ENR,Other Renewable Energies,Chaleur,Heat,46.3896053318,GWh,Nette,Net,Rome,41.896,12.4833,3339000.0
+331.0,20190.0,Groupe EDF,EDF group,Italie,Italy,Gaz,Gas,Électrique,Electric,16182.2805906,GWh,Nette,Net,Rome,41.896,12.4833,3339000.0
+339.0,20190.0,Groupe EDF,EDF group,Italie,Italy,Hydraulique,Hydraulic,Électrique,Electric,2844.35637225,GWh,Nette,Net,Rome,41.896,12.4833,3339000.0
+351.0,20190.0,Groupe EDF,EDF group,Italie,Italy,Éolienne,Wind,Électrique,Electric,776.555065521,GWh,Nette,Net,Rome,41.896,12.4833,3339000.0
+368.0,20190.0,Groupe EDF,EDF group,Italie,Italy,Solaire,Solar,Électrique,Electric,108.838322324,GWh,Nette,Net,Rome,41.896,12.4833,3339000.0
+381.0,20190.0,Groupe EDF,EDF group,Italie,Italy,Divers,Various,Électrique,Electric,32.4342835,GWh,Nette,Net,Rome,41.896,12.4833,3339000.0
+389.0,20190.0,Groupe EDF,EDF group,Italie,Italy,Gaz,Gas,Chaleur,Heat,2826.82207372,GWh,Nette,Net,Rome,41.896,12.4833,3339000.0
+394.0,20190.0,Groupe EDF,EDF group,Italie,Italy,Autres ENR,Other Renewable Energies,Chaleur,Heat,28.6201900939,GWh,Nette,Net,Rome,41.896,12.4833,3339000.0
+53.0,20220.0,Groupe EDF,EDF group,Mexique,Mexico,Éolienne,Wind,Électrique,Electric,439.177484854999,GWh,Nette,Net,Mexico City,19.4424,-99.131,19028000.0
+54.0,20220.0,Groupe EDF,EDF group,Mexique,Mexico,Solaire,Solar,Électrique,Electric,248.086219909999,GWh,Nette,Net,Mexico City,19.4424,-99.131,19028000.0
+151.0,20210.0,Groupe EDF,EDF group,Mexique,Mexico,Éolienne,Wind,Électrique,Electric,469.420227999999,GWh,Nette,Net,Mexico City,19.4424,-99.131,19028000.0
+152.0,20210.0,Groupe EDF,EDF group,Mexique,Mexico,Solaire,Solar,Électrique,Electric,257.13958955,GWh,Nette,Net,Mexico City,19.4424,-99.131,19028000.0
+253.0,20200.0,Groupe EDF,EDF group,Mexique,Mexico,Éolienne,Wind,Électrique,Electric,620.784,GWh,Nette,Net,Mexico City,19.4424,-99.131,19028000.0
+269.0,20200.0,Groupe EDF,EDF group,Mexique,Mexico,Solaire,Solar,Électrique,Electric,261.347,GWh,Nette,Net,Mexico City,19.4424,-99.131,19028000.0
+352.0,20190.0,Groupe EDF,EDF group,Mexique,Mexico,Éolienne,Wind,Électrique,Electric,651.906,GWh,Nette,Net,Mexico City,19.4424,-99.131,19028000.0
+369.0,20190.0,Groupe EDF,EDF group,Mexique,Mexico,Solaire,Solar,Électrique,Electric,122.161,GWh,Nette,Net,Mexico City,19.4424,-99.131,19028000.0
+55.0,20220.0,Groupe EDF,EDF group,Pologne,Poland,Charbon,Coal,Électrique,Electric,13.759272,GWh,Nette,Net,Katowice,50.2604,19.02,2746000.0
+56.0,20220.0,Groupe EDF,EDF group,Pologne,Poland,Éolienne,Wind,Électrique,Electric,189.989327,GWh,Nette,Net,Katowice,50.2604,19.02,2746000.0
+57.0,20220.0,Groupe EDF,EDF group,Pologne,Poland,Divers,Various,Électrique,Electric,82.4385072,GWh,Nette,Net,Katowice,50.2604,19.02,2746000.0
+58.0,20220.0,Groupe EDF,EDF group,Pologne,Poland,Charbon,Coal,Chaleur,Heat,786.04784812,GWh,Nette,Net,Katowice,50.2604,19.02,2746000.0
+59.0,20220.0,Groupe EDF,EDF group,Pologne,Poland,Gaz,Gas,Chaleur,Heat,66.600318,GWh,Nette,Net,Katowice,50.2604,19.02,2746000.0
+60.0,20220.0,Groupe EDF,EDF group,Pologne,Poland,Divers,Various,Chaleur,Heat,105.04133736,GWh,Nette,Net,Katowice,50.2604,19.02,2746000.0
+153.0,20210.0,Groupe EDF,EDF group,Pologne,Poland,Charbon,Coal,Électrique,Electric,24.9153344358,GWh,Nette,Net,Katowice,50.2604,19.02,2746000.0
+154.0,20210.0,Groupe EDF,EDF group,Pologne,Poland,Éolienne,Wind,Électrique,Electric,24.8,GWh,Nette,Net,Katowice,50.2604,19.02,2746000.0
+155.0,20210.0,Groupe EDF,EDF group,Pologne,Poland,Divers,Various,Électrique,Electric,79.027555,GWh,Nette,Net,Katowice,50.2604,19.02,2746000.0
+156.0,20210.0,Groupe EDF,EDF group,Pologne,Poland,Charbon,Coal,Chaleur,Heat,869.8818252932,GWh,Nette,Net,Katowice,50.2604,19.02,2746000.0
+157.0,20210.0,Groupe EDF,EDF group,Pologne,Poland,Gaz,Gas,Chaleur,Heat,90.284067384,GWh,Nette,Net,Katowice,50.2604,19.02,2746000.0
+158.0,20210.0,Groupe EDF,EDF group,Pologne,Poland,Divers,Various,Chaleur,Heat,152.963926544,GWh,Nette,Net,Katowice,50.2604,19.02,2746000.0
+222.0,20200.0,Groupe EDF,EDF group,Pologne,Poland,Charbon,Coal,Électrique,Electric,14.136894141,GWh,Nette,Net,Katowice,50.2604,19.02,2746000.0
+282.0,20200.0,Groupe EDF,EDF group,Pologne,Poland,Divers,Various,Électrique,Electric,102.3455558,GWh,Nette,Net,Katowice,50.2604,19.02,2746000.0
+284.0,20200.0,Groupe EDF,EDF group,Pologne,Poland,Charbon,Coal,Chaleur,Heat,866.107452218,GWh,Nette,Net,Katowice,50.2604,19.02,2746000.0
+291.0,20200.0,Groupe EDF,EDF group,Pologne,Poland,Gaz,Gas,Chaleur,Heat,33.555013072,GWh,Nette,Net,Katowice,50.2604,19.02,2746000.0
+293.0,20200.0,Groupe EDF,EDF group,Pologne,Poland,Divers,Various,Chaleur,Heat,135.813463,GWh,Nette,Net,Katowice,50.2604,19.02,2746000.0
+322.0,20190.0,Groupe EDF,EDF group,Pologne,Poland,Charbon,Coal,Électrique,Electric,22.7432269475,GWh,Nette,Net,Katowice,50.2604,19.02,2746000.0
+382.0,20190.0,Groupe EDF,EDF group,Pologne,Poland,Divers,Various,Électrique,Electric,97.9771784,GWh,Nette,Net,Katowice,50.2604,19.02,2746000.0
+384.0,20190.0,Groupe EDF,EDF group,Pologne,Poland,Charbon,Coal,Chaleur,Heat,886.866425866,GWh,Nette,Net,Katowice,50.2604,19.02,2746000.0
+391.0,20190.0,Groupe EDF,EDF group,Pologne,Poland,Divers,Various,Chaleur,Heat,185.5695914,GWh,Nette,Net,Katowice,50.2604,19.02,2746000.0
+61.0,20220.0,Groupe EDF,EDF group,Suisse,Switzerland,Hydraulique,Hydraulic,Électrique,Electric,160.0914618,GWh,Nette,Net,Geneva,46.21,6.14,1240000.0
+160.0,20210.0,Groupe EDF,EDF group,Suisse,Switzerland,Hydraulique,Hydraulic,Électrique,Electric,268.5108327,GWh,Nette,Net,Geneva,46.21,6.14,1240000.0
+241.0,20200.0,Groupe EDF,EDF group,Suisse,Switzerland,Hydraulique,Hydraulic,Électrique,Electric,292.589727,GWh,Nette,Net,Geneva,46.21,6.14,1240000.0
+340.0,20190.0,Groupe EDF,EDF group,Suisse,Switzerland,Hydraulique,Hydraulic,Électrique,Electric,273.28878,GWh,Nette,Net,Geneva,46.21,6.14,1240000.0
+62.0,20220.0,Groupe EDF,EDF group,Royaume-Uni,United Kingdom,Nucléaire,Nuclear,Électrique,Electric,34880.0,GWh,Nette,Net,London,51.5,-0.1167,8567000.0
+63.0,20220.0,Groupe EDF,EDF group,Royaume-Uni,United Kingdom,Charbon,Coal,Électrique,Electric,50.576,GWh,Nette,Net,London,51.5,-0.1167,8567000.0
+64.0,20220.0,Groupe EDF,EDF group,Royaume-Uni,United Kingdom,Éolienne,Wind,Électrique,Electric,957.032754730999,GWh,Nette,Net,London,51.5,-0.1167,8567000.0
+65.0,20220.0,Groupe EDF,EDF group,Royaume-Uni,United Kingdom,Solaire,Solar,Électrique,Electric,4.13888051999999,GWh,Nette,Net,London,51.5,-0.1167,8567000.0
+163.0,20210.0,Groupe EDF,EDF group,Royaume-Uni,United Kingdom,Nucléaire,Nuclear,Électrique,Electric,33368.0,GWh,Nette,Net,London,51.5,-0.1167,8567000.0
+164.0,20210.0,Groupe EDF,EDF group,Royaume-Uni,United Kingdom,Charbon,Coal,Électrique,Electric,490.479,GWh,Nette,Net,London,51.5,-0.1167,8567000.0
+165.0,20210.0,Groupe EDF,EDF group,Royaume-Uni,United Kingdom,Gaz,Gas,Électrique,Electric,2601.427,GWh,Nette,Net,London,51.5,-0.1167,8567000.0
+166.0,20210.0,Groupe EDF,EDF group,Royaume-Uni,United Kingdom,Éolienne,Wind,Électrique,Electric,881.67595550614,GWh,Nette,Net,London,51.5,-0.1167,8567000.0
+167.0,20210.0,Groupe EDF,EDF group,Royaume-Uni,United Kingdom,Biomasse,Biomass,Électrique,Electric,13.7402509,GWh,Nette,Net,London,51.5,-0.1167,8567000.0
+168.0,20210.0,Groupe EDF,EDF group,Royaume-Uni,United Kingdom,Divers,Various,Chaleur,Heat,1.708974,GWh,Nette,Net,London,51.5,-0.1167,8567000.0
+169.0,20210.0,Groupe EDF,EDF group,Royaume-Uni,United Kingdom,Autres ENR,Other Renewable Energies,Chaleur,Heat,1.708974,GWh,Nette,Net,London,51.5,-0.1167,8567000.0
+218.0,20200.0,Groupe EDF,EDF group,Royaume-Uni,United Kingdom,Nucléaire,Nuclear,Électrique,Electric,36533.6,GWh,Nette,Net,London,51.5,-0.1167,8567000.0
+223.0,20200.0,Groupe EDF,EDF group,Royaume-Uni,United Kingdom,Charbon,Coal,Électrique,Electric,1161.638,GWh,Nette,Net,London,51.5,-0.1167,8567000.0
+232.0,20200.0,Groupe EDF,EDF group,Royaume-Uni,United Kingdom,Gaz,Gas,Électrique,Electric,4860.719,GWh,Nette,Net,London,51.5,-0.1167,8567000.0
+256.0,20200.0,Groupe EDF,EDF group,Royaume-Uni,United Kingdom,Éolienne,Wind,Électrique,Electric,1111.89660168,GWh,Nette,Net,London,51.5,-0.1167,8567000.0
+278.0,20200.0,Groupe EDF,EDF group,Royaume-Uni,United Kingdom,Biomasse,Biomass,Électrique,Electric,27.4805018,GWh,Nette,Net,London,51.5,-0.1167,8567000.0
+294.0,20200.0,Groupe EDF,EDF group,Royaume-Uni,United Kingdom,Divers,Various,Chaleur,Heat,3.3170086,GWh,Nette,Net,London,51.5,-0.1167,8567000.0
+297.0,20200.0,Groupe EDF,EDF group,Royaume-Uni,United Kingdom,Autres ENR,Other Renewable Energies,Chaleur,Heat,3.3170086,GWh,Nette,Net,London,51.5,-0.1167,8567000.0
+318.0,20190.0,Groupe EDF,EDF group,Royaume-Uni,United Kingdom,Nucléaire,Nuclear,Électrique,Electric,40825.6704,GWh,Nette,Net,London,51.5,-0.1167,8567000.0
+323.0,20190.0,Groupe EDF,EDF group,Royaume-Uni,United Kingdom,Charbon,Coal,Électrique,Electric,2570.423,GWh,Nette,Net,London,51.5,-0.1167,8567000.0
+332.0,20190.0,Groupe EDF,EDF group,Royaume-Uni,United Kingdom,Gaz,Gas,Électrique,Electric,6202.273,GWh,Nette,Net,London,51.5,-0.1167,8567000.0
+355.0,20190.0,Groupe EDF,EDF group,Royaume-Uni,United Kingdom,Éolienne,Wind,Électrique,Electric,2046.99,GWh,Nette,Net,London,51.5,-0.1167,8567000.0
+377.0,20190.0,Groupe EDF,EDF group,Royaume-Uni,United Kingdom,Biomasse,Biomass,Électrique,Electric,28.4099438,GWh,Nette,Net,London,51.5,-0.1167,8567000.0
+392.0,20190.0,Groupe EDF,EDF group,Royaume-Uni,United Kingdom,Divers,Various,Chaleur,Heat,1.5710568,GWh,Nette,Net,London,51.5,-0.1167,8567000.0
+395.0,20190.0,Groupe EDF,EDF group,Royaume-Uni,United Kingdom,Autres ENR,Other Renewable Energies,Chaleur,Heat,1.5710568,GWh,Nette,Net,London,51.5,-0.1167,8567000.0
+66.0,20220.0,Groupe EDF,EDF group,États-Unis,United States of America,Éolienne,Wind,Électrique,Electric,12475.92442,GWh,Nette,Net,,,,
+67.0,20220.0,Groupe EDF,EDF group,États-Unis,United States of America,Solaire,Solar,Électrique,Electric,2079.972,GWh,Nette,Net,,,,
+170.0,20210.0,Groupe EDF,EDF group,États-Unis,United States of America,Nucléaire,Nuclear,Électrique,Electric,10105.9784,GWh,Nette,Net,,,,
+171.0,20210.0,Groupe EDF,EDF group,États-Unis,United States of America,Éolienne,Wind,Électrique,Electric,10627.3083452298,GWh,Nette,Net,,,,
+172.0,20210.0,Groupe EDF,EDF group,États-Unis,United States of America,Solaire,Solar,Électrique,Electric,1277.17935122426,GWh,Nette,Net,,,,
+219.0,20200.0,Groupe EDF,EDF group,États-Unis,United States of America,Nucléaire,Nuclear,Électrique,Electric,16607.737788,GWh,Nette,Net,,,,
+257.0,20200.0,Groupe EDF,EDF group,États-Unis,United States of America,Éolienne,Wind,Électrique,Electric,9377.013,GWh,Nette,Net,,,,
+271.0,20200.0,Groupe EDF,EDF group,États-Unis,United States of America,Solaire,Solar,Électrique,Electric,529.315,GWh,Nette,Net,,,,
+319.0,20190.0,Groupe EDF,EDF group,États-Unis,United States of America,Nucléaire,Nuclear,Électrique,Electric,16864.666392,GWh,Nette,Net,,,,
+356.0,20190.0,Groupe EDF,EDF group,États-Unis,United States of America,Éolienne,Wind,Électrique,Electric,8951.568,GWh,Nette,Net,,,,
+371.0,20190.0,Groupe EDF,EDF group,États-Unis,United States of America,Solaire,Solar,Électrique,Electric,418.635,GWh,Nette,Net,,,,
+378.0,20190.0,Groupe EDF,EDF group,États-Unis,United States of America,Biomasse,Biomass,Électrique,Electric,180.826,GWh,Nette,Net,,,,
+68.0,20220.0,Groupe EDF,EDF group,Viêt Nam,Vietnam,Gaz,Gas,Électrique,Electric,2536.79625,GWh,Nette,Net,Ho Chi Minh City,10.78,106.695,5314000.0
+69.0,20220.0,Groupe EDF,EDF group,Viêt Nam,Vietnam,Solaire,Solar,Électrique,Electric,34.0636945,GWh,Nette,Net,Ho Chi Minh City,10.78,106.695,5314000.0
+173.0,20210.0,Groupe EDF,EDF group,Viêt Nam,Vietnam,Gaz,Gas,Électrique,Electric,2205.0545625,GWh,Nette,Net,Ho Chi Minh City,10.78,106.695,5314000.0
+233.0,20200.0,Groupe EDF,EDF group,Viêt Nam,Vietnam,Gaz,Gas,Électrique,Electric,2711.3158125,GWh,Nette,Net,Ho Chi Minh City,10.78,106.695,5314000.0
+333.0,20190.0,Groupe EDF,EDF group,Viêt Nam,Vietnam,Gaz,Gas,Électrique,Electric,3031.752375,GWh,Nette,Net,Ho Chi Minh City,10.78,106.695,5314000.0
+70.0,20220.0,Groupe EDF,EDF group,Pays-Bas,Netherlands,Gaz,Gas,Électrique,Electric,1488.1,GWh,Nette,Net,The Hague,52.08,4.27,1406000.0
+174.0,20210.0,Groupe EDF,EDF group,Pays-Bas,Netherlands,Gaz,Gas,Électrique,Electric,1743.5,GWh,Nette,Net,The Hague,52.08,4.27,1406000.0
+234.0,20200.0,Groupe EDF,EDF group,Pays-Bas,Netherlands,Gaz,Gas,Électrique,Electric,2513.4,GWh,Nette,Net,The Hague,52.08,4.27,1406000.0
+334.0,20190.0,Groupe EDF,EDF group,Pays-Bas,Netherlands,Gaz,Gas,Électrique,Electric,2395.4,GWh,Nette,Net,The Hague,52.08,4.27,1406000.0
+71.0,20220.0,Groupe EDF,EDF group,Chili,Chile,Fioul,Fioul,Électrique,Electric,85.1,GWh,Nette,Net,Santiago,-33.45,-70.667,5720000.0
+72.0,20220.0,Groupe EDF,EDF group,Chili,Chile,Gaz,Gas,Électrique,Electric,799.995,GWh,Nette,Net,Santiago,-33.45,-70.667,5720000.0
+73.0,20220.0,Groupe EDF,EDF group,Chili,Chile,Éolienne,Wind,Électrique,Electric,162.68215,GWh,Nette,Net,Santiago,-33.45,-70.667,5720000.0
+74.0,20220.0,Groupe EDF,EDF group,Chili,Chile,Solaire,Solar,Électrique,Electric,256.96975,GWh,Nette,Net,Santiago,-33.45,-70.667,5720000.0
+175.0,20210.0,Groupe EDF,EDF group,Chili,Chile,Fioul,Fioul,Électrique,Electric,261.06,GWh,Nette,Net,Santiago,-33.45,-70.667,5720000.0
+176.0,20210.0,Groupe EDF,EDF group,Chili,Chile,Gaz,Gas,Électrique,Electric,378.03,GWh,Nette,Net,Santiago,-33.45,-70.667,5720000.0
+177.0,20210.0,Groupe EDF,EDF group,Chili,Chile,Éolienne,Wind,Électrique,Electric,153.0923,GWh,Nette,Net,Santiago,-33.45,-70.667,5720000.0
+178.0,20210.0,Groupe EDF,EDF group,Chili,Chile,Solaire,Solar,Électrique,Electric,280.2596,GWh,Nette,Net,Santiago,-33.45,-70.667,5720000.0
+225.0,20200.0,Groupe EDF,EDF group,Chili,Chile,Fioul,Fioul,Électrique,Electric,88.86,GWh,Nette,Net,Santiago,-33.45,-70.667,5720000.0
+235.0,20200.0,Groupe EDF,EDF group,Chili,Chile,Gaz,Gas,Électrique,Electric,462.75,GWh,Nette,Net,Santiago,-33.45,-70.667,5720000.0
+258.0,20200.0,Groupe EDF,EDF group,Chili,Chile,Éolienne,Wind,Électrique,Electric,171.533,GWh,Nette,Net,Santiago,-33.45,-70.667,5720000.0
+272.0,20200.0,Groupe EDF,EDF group,Chili,Chile,Solaire,Solar,Électrique,Electric,287.399,GWh,Nette,Net,Santiago,-33.45,-70.667,5720000.0
+325.0,20190.0,Groupe EDF,EDF group,Chili,Chile,Fioul,Fioul,Électrique,Electric,19.74325,GWh,Nette,Net,Santiago,-33.45,-70.667,5720000.0
+335.0,20190.0,Groupe EDF,EDF group,Chili,Chile,Gaz,Gas,Électrique,Electric,433.024,GWh,Nette,Net,Santiago,-33.45,-70.667,5720000.0
+357.0,20190.0,Groupe EDF,EDF group,Chili,Chile,Éolienne,Wind,Électrique,Electric,178.9,GWh,Nette,Net,Santiago,-33.45,-70.667,5720000.0
+372.0,20190.0,Groupe EDF,EDF group,Chili,Chile,Solaire,Solar,Électrique,Electric,281.9,GWh,Nette,Net,Santiago,-33.45,-70.667,5720000.0
+75.0,20220.0,Groupe EDF,EDF group,Laos,Laos,Hydraulique,Hydraulic,Électrique,Electric,1824.0,GWh,Nette,Net,Vientiane,17.9667,102.6,754000.0
+179.0,20210.0,Groupe EDF,EDF group,Laos,Laos,Hydraulique,Hydraulic,Électrique,Electric,1904.0,GWh,Nette,Net,Vientiane,17.9667,102.6,754000.0
+242.0,20200.0,Groupe EDF,EDF group,Laos,Laos,Hydraulique,Hydraulic,Électrique,Electric,2024.4,GWh,Nette,Net,Vientiane,17.9667,102.6,754000.0
+341.0,20190.0,Groupe EDF,EDF group,Laos,Laos,Hydraulique,Hydraulic,Électrique,Electric,2026.4,GWh,Nette,Net,Vientiane,17.9667,102.6,754000.0
+76.0,20220.0,Groupe EDF,EDF group,Maroc,Morocco,Éolienne,Wind,Électrique,Electric,87.6135536931,GWh,Nette,Net,Casablanca,33.6,-7.6164,3181000.0
+77.0,20220.0,Groupe EDF,EDF group,Maroc,Morocco,Autres ENR,Other Renewable Energies,Chaleur,Heat,5.55973282972181,GWh,Nette,Net,Casablanca,33.6,-7.6164,3181000.0
+180.0,20210.0,Groupe EDF,EDF group,Maroc,Morocco,Autres ENR,Other Renewable Energies,Chaleur,Heat,5.80065185224181,GWh,Nette,Net,Casablanca,33.6,-7.6164,3181000.0
+298.0,20200.0,Groupe EDF,EDF group,Maroc,Morocco,Autres ENR,Other Renewable Energies,Chaleur,Heat,6.714305,GWh,Nette,Net,Casablanca,33.6,-7.6164,3181000.0
+358.0,20190.0,Groupe EDF,EDF group,Maroc,Morocco,Éolienne,Wind,Électrique,Electric,73.533,GWh,Nette,Net,Casablanca,33.6,-7.6164,3181000.0
+78.0,20220.0,Groupe EDF,EDF group,Émirats arabes unis,United Arab Emirates,Solaire,Solar,Électrique,Electric,406.3106144,GWh,Nette,Net,Dubai,25.23,55.28,1379000.0
+181.0,20210.0,Groupe EDF,EDF group,Émirats arabes unis,United Arab Emirates,Solaire,Solar,Électrique,Electric,392.0816053216,GWh,Nette,Net,Dubai,25.23,55.28,1379000.0
+273.0,20200.0,Groupe EDF,EDF group,Émirats arabes unis,United Arab Emirates,Solaire,Solar,Électrique,Electric,350.909,GWh,Nette,Net,Dubai,25.23,55.28,1379000.0
+373.0,20190.0,Groupe EDF,EDF group,Émirats arabes unis,United Arab Emirates,Solaire,Solar,Électrique,Electric,134.1,GWh,Nette,Net,Dubai,25.23,55.28,1379000.0
+79.0,20220.0,Groupe EDF,EDF group,Égypte,Egypt,Solaire,Solar,Électrique,Electric,159.977130106,GWh,Nette,Net,Cairo,30.05,31.25,11893000.0
+182.0,20210.0,Groupe EDF,EDF group,Égypte,Egypt,Solaire,Solar,Électrique,Electric,152.6506371352,GWh,Nette,Net,Cairo,30.05,31.25,11893000.0
+274.0,20200.0,Groupe EDF,EDF group,Égypte,Egypt,Solaire,Solar,Électrique,Electric,148.867,GWh,Nette,Net,Cairo,30.05,31.25,11893000.0
+80.0,20220.0,Groupe EDF,EDF group,Autres pays,Various countries,Éolienne,Wind,Électrique,Electric,529.265046,GWh,Nette,Net,,,,
+374.0,20190.0,Groupe EDF,EDF group,Autres pays,Various countries,Solaire,Solar,Électrique,Electric,47.3,GWh,Nette,Net,,,,
+81.0,20220.0,Groupe EDF,EDF group,Monde,World,Nucléaire,Nuclear,Électrique,Electric,327956.285,GWh,Intégration Globale,Full integration,,,,
+82.0,20220.0,Groupe EDF,EDF group,Monde,World,Charbon,Coal,Électrique,Electric,1700.71,GWh,Intégration Globale,Full integration,,,,
+83.0,20220.0,Groupe EDF,EDF group,Monde,World,Fioul,Fioul,Électrique,Electric,5259.19018204645,GWh,Intégration Globale,Full integration,,,,
+84.0,20220.0,Groupe EDF,EDF group,Monde,World,Gaz,Gas,Électrique,Electric,36460.0095436532,GWh,Intégration Globale,Full integration,,,,
+85.0,20220.0,Groupe EDF,EDF group,Monde,World,Hydraulique,Hydraulic,Électrique,Electric,35005.7087338866,GWh,Intégration Globale,Full integration,,,,
+86.0,20220.0,Groupe EDF,EDF group,Monde,World,Éolienne,Wind,Électrique,Electric,21223.5772677655,GWh,Intégration Globale,Full integration,,,,
+87.0,20220.0,Groupe EDF,EDF group,Monde,World,Solaire,Solar,Électrique,Electric,2517.74490375988,GWh,Intégration Globale,Full integration,,,,
+88.0,20220.0,Groupe EDF,EDF group,Monde,World,Géothermie,Geothermal,Électrique,Electric,3.935,GWh,Intégration Globale,Full integration,,,,
+89.0,20220.0,Groupe EDF,EDF group,Monde,World,Biomasse,Biomass,Électrique,Electric,923.887351,GWh,Intégration Globale,Full integration,,,,
+90.0,20220.0,Groupe EDF,EDF group,Monde,World,Énergie marine,Marine energy,Électrique,Electric,548.784,GWh,Intégration Globale,Full integration,,,,
+91.0,20220.0,Groupe EDF,EDF group,Monde,World,Divers,Various,Électrique,Electric,121.33541,GWh,Intégration Globale,Full integration,,,,
+92.0,20220.0,Groupe EDF,EDF group,Monde,World,Charbon,Coal,Chaleur,Heat,793.1748,GWh,Intégration Globale,Full integration,,,,
+93.0,20220.0,Groupe EDF,EDF group,Monde,World,Fioul,Fioul,Chaleur,Heat,231.349868166667,GWh,Intégration Globale,Full integration,,,,
+94.0,20220.0,Groupe EDF,EDF group,Monde,World,Gaz,Gas,Chaleur,Heat,16027.5129972752,GWh,Intégration Globale,Full integration,,,,
+95.0,20220.0,Groupe EDF,EDF group,Monde,World,Divers,Various,Chaleur,Heat,120.79042264,GWh,Intégration Globale,Full integration,,,,
+96.0,20220.0,Groupe EDF,EDF group,Monde,World,Autres ENR,Other Renewable Energies,Chaleur,Heat,8801.97875962828,GWh,Intégration Globale,Full integration,,,,
+183.0,20210.0,Groupe EDF,EDF group,Monde,World,Nucléaire,Nuclear,Électrique,Electric,409754.842,GWh,Intégration Globale,Full integration,,,,
+184.0,20210.0,Groupe EDF,EDF group,Monde,World,Charbon,Coal,Électrique,Electric,3530.525974,GWh,Intégration Globale,Full integration,,,,
+185.0,20210.0,Groupe EDF,EDF group,Monde,World,Fioul,Fioul,Électrique,Electric,5093.9829,GWh,Intégration Globale,Full integration,,,,
+186.0,20210.0,Groupe EDF,EDF group,Monde,World,Gaz,Gas,Électrique,Electric,37994.7712306171,GWh,Intégration Globale,Full integration,,,,
+187.0,20210.0,Groupe EDF,EDF group,Monde,World,Hydraulique,Hydraulic,Électrique,Electric,45593.9793362463,GWh,Intégration Globale,Full integration,,,,
+188.0,20210.0,Groupe EDF,EDF group,Monde,World,Éolienne,Wind,Électrique,Electric,18302.7495813679,GWh,Intégration Globale,Full integration,,,,
+189.0,20210.0,Groupe EDF,EDF group,Monde,World,Solaire,Solar,Électrique,Electric,1775.89332839208,GWh,Intégration Globale,Full integration,,,,
+190.0,20210.0,Groupe EDF,EDF group,Monde,World,Géothermie,Geothermal,Électrique,Electric,4.226,GWh,Intégration Globale,Full integration,,,,
+191.0,20210.0,Groupe EDF,EDF group,Monde,World,Biomasse,Biomass,Électrique,Electric,834.817,GWh,Intégration Globale,Full integration,,,,
+192.0,20210.0,Groupe EDF,EDF group,Monde,World,Énergie marine,Marine energy,Électrique,Electric,543.049,GWh,Intégration Globale,Full integration,,,,
+193.0,20210.0,Groupe EDF,EDF group,Monde,World,Divers,Various,Électrique,Electric,231.6978,GWh,Intégration Globale,Full integration,,,,
+194.0,20210.0,Groupe EDF,EDF group,Monde,World,Charbon,Coal,Chaleur,Heat,893.6186781088,GWh,Intégration Globale,Full integration,,,,
+195.0,20210.0,Groupe EDF,EDF group,Monde,World,Fioul,Fioul,Chaleur,Heat,221.4874395596,GWh,Intégration Globale,Full integration,,,,
+196.0,20210.0,Groupe EDF,EDF group,Monde,World,Gaz,Gas,Chaleur,Heat,17928.4518488444,GWh,Intégration Globale,Full integration,,,,
+197.0,20210.0,Groupe EDF,EDF group,Monde,World,Divers,Various,Chaleur,Heat,529.61115962144,GWh,Intégration Globale,Full integration,,,,
+198.0,20210.0,Groupe EDF,EDF group,Monde,World,Autres ENR,Other Renewable Energies,Chaleur,Heat,7937.37494796156,GWh,Intégration Globale,Full integration,,,,
+199.0,20200.0,Groupe EDF,EDF group,Monde,World,Nucléaire,Nuclear,Électrique,Electric,384099.389,GWh,Intégration Globale,Full integration,,,,
+200.0,20200.0,Groupe EDF,EDF group,Monde,World,Charbon,Coal,Électrique,Electric,2215.637818,GWh,Intégration Globale,Full integration,,,,
+201.0,20200.0,Groupe EDF,EDF group,Monde,World,Fioul,Fioul,Électrique,Electric,4574.865,GWh,Intégration Globale,Full integration,,,,
+202.0,20200.0,Groupe EDF,EDF group,Monde,World,Gaz,Gas,Électrique,Electric,41966.1881503,GWh,Intégration Globale,Full integration,,,,
+203.0,20200.0,Groupe EDF,EDF group,Monde,World,Hydraulique,Hydraulic,Électrique,Electric,48820.1649888,GWh,Intégration Globale,Full integration,,,,
+204.0,20200.0,Groupe EDF,EDF group,Monde,World,Éolienne,Wind,Électrique,Electric,17172.7531941,GWh,Intégration Globale,Full integration,,,,
+205.0,20200.0,Groupe EDF,EDF group,Monde,World,Solaire,Solar,Électrique,Electric,1170.91221035,GWh,Intégration Globale,Full integration,,,,
+206.0,20200.0,Groupe EDF,EDF group,Monde,World,Géothermie,Geothermal,Électrique,Electric,2.75,GWh,Intégration Globale,Full integration,,,,
+207.0,20200.0,Groupe EDF,EDF group,Monde,World,Biomasse,Biomass,Électrique,Electric,958.925964148,GWh,Intégration Globale,Full integration,,,,
+208.0,20200.0,Groupe EDF,EDF group,Monde,World,Énergie marine,Marine energy,Électrique,Electric,539.947,GWh,Intégration Globale,Full integration,,,,
+209.0,20200.0,Groupe EDF,EDF group,Monde,World,Divers,Various,Électrique,Electric,376.068884148,GWh,Intégration Globale,Full integration,,,,
+210.0,20200.0,Groupe EDF,EDF group,Monde,World,Charbon,Coal,Chaleur,Heat,888.784964,GWh,Intégration Globale,Full integration,,,,
+211.0,20200.0,Groupe EDF,EDF group,Monde,World,Fioul,Fioul,Chaleur,Heat,206.4564374,GWh,Intégration Globale,Full integration,,,,
+212.0,20200.0,Groupe EDF,EDF group,Monde,World,Gaz,Gas,Chaleur,Heat,15575.772128,GWh,Intégration Globale,Full integration,,,,
+213.0,20200.0,Groupe EDF,EDF group,Monde,World,Divers,Various,Chaleur,Heat,811.88562634,GWh,Intégration Globale,Full integration,,,,
+214.0,20200.0,Groupe EDF,EDF group,Monde,World,Autres ENR,Other Renewable Energies,Chaleur,Heat,8579.41488309,GWh,Intégration Globale,Full integration,,,,
+299.0,20190.0,Groupe EDF,EDF group,Monde,World,Nucléaire,Nuclear,Électrique,Electric,437559.881,GWh,Intégration Globale,Full integration,,,,
+300.0,20190.0,Groupe EDF,EDF group,Monde,World,Charbon,Coal,Électrique,Electric,3419.601355,GWh,Intégration Globale,Full integration,,,,
+301.0,20190.0,Groupe EDF,EDF group,Monde,World,Fioul,Fioul,Électrique,Electric,4700.341,GWh,Intégration Globale,Full integration,,,,
+302.0,20190.0,Groupe EDF,EDF group,Monde,World,Gaz,Gas,Électrique,Electric,49017.5960402,GWh,Intégration Globale,Full integration,,,,
+303.0,20190.0,Groupe EDF,EDF group,Monde,World,Hydraulique,Hydraulic,Électrique,Electric,43707.4373898,GWh,Intégration Globale,Full integration,,,,
+304.0,20190.0,Groupe EDF,EDF group,Monde,World,Éolienne,Wind,Électrique,Electric,16010.1931933,GWh,Intégration Globale,Full integration,,,,
+305.0,20190.0,Groupe EDF,EDF group,Monde,World,Solaire,Solar,Électrique,Electric,973.304466156,GWh,Intégration Globale,Full integration,,,,
+306.0,20190.0,Groupe EDF,EDF group,Monde,World,Géothermie,Geothermal,Électrique,Electric,4.19,GWh,Intégration Globale,Full integration,,,,
+307.0,20190.0,Groupe EDF,EDF group,Monde,World,Biomasse,Biomass,Électrique,Electric,1293.27982409,GWh,Intégration Globale,Full integration,,,,
+308.0,20190.0,Groupe EDF,EDF group,Monde,World,Énergie marine,Marine energy,Électrique,Electric,531.652,GWh,Intégration Globale,Full integration,,,,
+309.0,20190.0,Groupe EDF,EDF group,Monde,World,Divers,Various,Électrique,Electric,396.0715,GWh,Intégration Globale,Full integration,,,,
+310.0,20190.0,Groupe EDF,EDF group,Monde,World,Charbon,Coal,Chaleur,Heat,990.2814336,GWh,Intégration Globale,Full integration,,,,
+311.0,20190.0,Groupe EDF,EDF group,Monde,World,Fioul,Fioul,Chaleur,Heat,266.9434758,GWh,Intégration Globale,Full integration,,,,
+312.0,20190.0,Groupe EDF,EDF group,Monde,World,Gaz,Gas,Chaleur,Heat,17392.2508795,GWh,Intégration Globale,Full integration,,,,
+313.0,20190.0,Groupe EDF,EDF group,Monde,World,Divers,Various,Chaleur,Heat,3258.20326506,GWh,Intégration Globale,Full integration,,,,
+314.0,20190.0,Groupe EDF,EDF group,Monde,World,Autres ENR,Other Renewable Energies,Chaleur,Heat,8517.57675774,GWh,Intégration Globale,Full integration,,,,
+159.0,20210.0,Groupe EDF,EDF group,Portugal,Portugal,Éolienne,Wind,Électrique,Electric,359.538648566,GWh,Nette,Net,Lisbon,38.7227,-9.1449,2812000.0
+254.0,20200.0,Groupe EDF,EDF group,Portugal,Portugal,Éolienne,Wind,Électrique,Electric,485.241,GWh,Nette,Net,Lisbon,38.7227,-9.1449,2812000.0
+353.0,20190.0,Groupe EDF,EDF group,Portugal,Portugal,Éolienne,Wind,Électrique,Electric,513.2,GWh,Nette,Net,Lisbon,38.7227,-9.1449,2812000.0
+161.0,20210.0,Groupe EDF,EDF group,Turquie,Turkey,Éolienne,Wind,Électrique,Electric,372.081,GWh,Nette,Net,Istanbul,41.105,29.01,10061000.0
+162.0,20210.0,Groupe EDF,EDF group,Turquie,Turkey,Solaire,Solar,Électrique,Electric,14.638,GWh,Nette,Net,Istanbul,41.105,29.01,10061000.0
+255.0,20200.0,Groupe EDF,EDF group,Turquie,Turkey,Éolienne,Wind,Électrique,Electric,770.444,GWh,Nette,Net,Istanbul,41.105,29.01,10061000.0
+270.0,20200.0,Groupe EDF,EDF group,Turquie,Turkey,Solaire,Solar,Électrique,Electric,28.498,GWh,Nette,Net,Istanbul,41.105,29.01,10061000.0
+354.0,20190.0,Groupe EDF,EDF group,Turquie,Turkey,Éolienne,Wind,Électrique,Electric,749.158,GWh,Nette,Net,Istanbul,41.105,29.01,10061000.0
+370.0,20190.0,Groupe EDF,EDF group,Turquie,Turkey,Solaire,Solar,Électrique,Electric,5.6,GWh,Nette,Net,Istanbul,41.105,29.01,10061000.0
