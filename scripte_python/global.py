@@ -71,7 +71,7 @@ def premièreFig():
 fig1 =premièreFig()
 st.write(fig1)
 # ###############################################################################
-st.subheader("Type d'énergie vendu en moyenne par EDF pour chaque pays client ")
+st.subheader(" Type d'énergie vendu en moyenne par EDF pour chaque pays client ")
 
 @st.cache_resource
 def deuxièmeFig():
@@ -100,7 +100,6 @@ def selectPays():
                 template='plotly_white',color_discrete_sequence=['blue'])  #permet de ne  pas mettre la moyenne des année en abscisse , ex : 2019,5
     # Forcer Plotly Express à traiter l'axe x comme catégorie
     fig3.update_xaxes(type='category')
-
     return fig3
 
 fig3 =selectPays()
