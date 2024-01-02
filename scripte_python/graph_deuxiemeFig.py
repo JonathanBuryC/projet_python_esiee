@@ -2,7 +2,7 @@ import plotly_express as px
 import pandas as pd
 
 edf = pd.read_csv("../CSV/productions-consolidees-par-pays-du-groupe-edf.csv",delimiter=';')
-
+edf.columns = [col.strip() for col in edf.columns]
 colors = {
     'background': '#111111',
     'text': '#7FDBFF'

@@ -4,6 +4,7 @@ from dash import Dash, html, dash_table, dcc,  Input, Output, callback
 
 edf = pd.read_csv("../CSV/productions-consolidees-par-pays-du-groupe-edf.csv",delimiter=';')
 
+edf.columns = [col.strip() for col in edf.columns]
 # @callback(
 #     Output('dd-output-container', 'children'),
 #     Input('demo-dropdown', 'value')
@@ -38,3 +39,4 @@ def selectPays(selected_country):
     # Forcer Plotly Express à traiter l'axe x comme catégorie
     fig.update_xaxes(type='category')
     return fig
+
