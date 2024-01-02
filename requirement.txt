@@ -3,4 +3,9 @@ streamlit
 plotly_express
 sweetviz
 folium
+folium.plugins
 numpy
+sys
+plotly.graph_objects
+random
+import dash
