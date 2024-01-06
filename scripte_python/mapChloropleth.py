@@ -5,8 +5,7 @@ import plotly_express as px
 import numpy as np
 
 
-add_iso_to_edf_pays=pd.read_csv("../CSV/edf_AND_country_AND_iso.csv")
-# /projet_pyhton_esiee
+add_iso_to_edf_pays=pd.read_csv("../projet_pyhton_esiee/CSV/edf_AND_country_AND_iso.csv")
 
 add_iso_to_edf_pays.columns = [col.strip() for col in add_iso_to_edf_pays.columns]
 add_iso_to_edf_pays.dropna()
@@ -15,14 +14,15 @@ choropleth_data = add_iso_to_edf_pays.groupby(['country', 'alpha-3'])['Productio
 codes_pays = [code.strip() for code in choropleth_data["alpha-3"]]
 
 
+
+
 def figure_chloropleth():
     fig_choropleth = px.choropleth(
         choropleth_data,
         locations=codes_pays,
         color="Production",
         hover_name="country",
-        # hover_data=["Filière"],
-        title="Global Energy Production by Country  in the world",
+        title='Fait à partir du dataframe "ISO 3166-1"',
         color_continuous_scale='Rainbow',
         range_color=[0, 100000]
     )
@@ -45,7 +45,6 @@ def figure_chloropleth():
         showcoastlines=False,
         coastlinecolor="black",
         showland=False,
-        # landcolor='alpha-2 '
     )
     
     return fig_choropleth

@@ -1,7 +1,7 @@
 import plotly_express as px
 import pandas as pd
 
-edf = pd.read_csv("../CSV/productions-consolidees-par-pays-du-groupe-edf.csv",delimiter=';')
+edf = pd.read_csv("../projet_pyhton_esiee/CSV/productions-consolidees-par-pays-du-groupe-edf.csv",delimiter=';')
 
 edf.columns = [col.strip() for col in edf.columns]
 
