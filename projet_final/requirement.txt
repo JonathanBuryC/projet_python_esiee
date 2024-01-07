@@ -1,6 +1,0 @@
-pandas 
-dash
-plotly_express
-plotly.graph_objects
-sys
-
