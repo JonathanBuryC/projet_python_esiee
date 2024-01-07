@@ -75,14 +75,14 @@ app.layout = html.Div(children=[
       
       
    
-    html.H3("Diagramme en bâton détaillant la production d'énergie par edf de 2019 à 2022 selon la filière   ",style={'textAlign': 'center','color': 'white'}),
+    html.H3("Histogramme détaillant la production d'énergie par edf de 2019 à 2022 selon la filière   ",style={'textAlign': 'center','color': 'white'}),
     dcc.Graph(figure=premiereFig()),
     html.Br(),
     html.Br(),
     html.Br(),
     html.Br(),
 
-    html.H3("Diagramme en bâton détaillant la production d'énergie par pays client d'edf selon la filière ",style={'textAlign': 'center','color': 'white' }),
+    html.H3("Histogramme détaillant la production d'énergie par pays client d'edf selon la filière ",style={'textAlign': 'center','color': 'white' }),
     dcc.Graph(figure=deuxiemeFig()),
     html.Br(),
     html.Br(),
