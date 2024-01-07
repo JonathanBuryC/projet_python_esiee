@@ -8,21 +8,19 @@ from dash.dependencies import Input, Output
 
 
 
-sys.path.append('../projet_python_esiee/scripte_python') 
+sys.path.append('../projet_pyhton_esiee/scripte_python') 
 from graph_premiereFig import premiereFig
 from graph_premiereFig import mean_counts_by_year
 from graph_deuxiemeFig import deuxiemeFig
-from graph_selectPays import button_select_country
-from graph_selectPays import selectPays
 from mapChloropleth import figure_chloropleth
 from API import dataframe_with_api
 from API import diagramme_api
 
 
 
-edf = pd.read_csv("../projet_python_esiee/CSV/productions-consolidees-par-pays-du-groupe-edf.csv",delimiter=';')
+edf = pd.read_csv("../projet_pyhton_esiee/CSV/productions-consolidees-par-pays-du-groupe-edf.csv",delimiter=';')
 
-iso=pd.read_csv("../projet_python_esiee/CSV/all.csv")
+iso=pd.read_csv("../projet_pyhton_esiee/CSV/all.csv")
 
 
 edf.columns = [col.strip() for col in edf.columns]
@@ -146,7 +144,7 @@ def update_diagram(selected_country):
         y='Production',
         render_mode='svg',
         # style = {'backgroundColor': '#FFD700'},
-        labels={'Année': 'Année', 'Production': 'Production'},
+        labels={'Année': 'Année', 'Production': 'Production '},
         template='plotly_white',
         color_discrete_sequence=['blue']
     )
