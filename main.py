@@ -8,7 +8,7 @@ from dash.dependencies import Input, Output
 
 
 
-sys.path.append('../projet_python_esiee-main/scripte_python') 
+sys.path.append('../projet_python_esiee/scripte_python') 
 from graph_premiereFig import premiereFig
 from graph_premiereFig import mean_counts_by_year
 from graph_deuxiemeFig import deuxiemeFig
@@ -20,9 +20,9 @@ from API import diagramme_api
 
 
 
-edf = pd.read_csv("../projet_python_esiee-main/CSV/productions-consolidees-par-pays-du-groupe-edf.csv",delimiter=';')
+edf = pd.read_csv("../projet_python_esiee/CSV/productions-consolidees-par-pays-du-groupe-edf.csv",delimiter=';')
 
-iso=pd.read_csv("../projet_python_esiee-main/CSV/all.csv")
+iso=pd.read_csv("../projet_python_esiee/CSV/all.csv")
 
 
 edf.columns = [col.strip() for col in edf.columns]
