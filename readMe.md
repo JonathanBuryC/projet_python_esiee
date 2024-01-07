@@ -26,3 +26,10 @@ La carte chloropleth corrobore les données de notre second histogramme sur la p
 
 ## Conclusion
 Notre projet a révélé la complexité et les dynamiques du marché mondial d'EDF. Grâce aux outils de data science et de visualisation, nous avons non seulement confirmé la prédominance du nucléaire dans la production d'EDF, mais aussi validé l'intégrité des données d'EDF à travers différentes analyses et visualisations, dont une carte chloropleth innovante et l'exploitation d'une API.
+
+
+
+
+Pour lancer le projet : 
+    1. python -m pip install -r requirements.txt
+    2. python main.py
