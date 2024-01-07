@@ -5,7 +5,7 @@ import plotly_express as px
 import numpy as np
 
 
-add_iso_to_edf_pays=pd.read_csv("../projet_pyhton_esiee/CSV/edf_AND_country_AND_iso.csv")
+add_iso_to_edf_pays=pd.read_csv("../projet_python_esiee-main/CSV/edf_AND_country_AND_iso.csv")
 
 add_iso_to_edf_pays.columns = [col.strip() for col in add_iso_to_edf_pays.columns]
 add_iso_to_edf_pays.dropna()
