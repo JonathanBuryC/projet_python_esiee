@@ -71,14 +71,14 @@ app.layout = html.Div(children=[
       
       
    
-    html.H3("Histogramme détaillant la production d'énergie par edf de 2019 à 2022 selon la filière   ",style={'textAlign': 'center','color': 'white'}),
+    html.H3("Histogramme détaillant la production d'énergie par edf de 2019 à 2022 selon la filière en GWh  ",style={'textAlign': 'center','color': 'white'}),
     dcc.Graph(figure=premiereFig()),   #pour comprendre , allez voir "scripte_python/graph_premiereFig.py"
     html.Br(),
     html.Br(),
     html.Br(),
     html.Br(),
 
-    html.H3("Histogramme détaillant la production d'énergie par pays client d'edf selon la filière ",style={'textAlign': 'center','color': 'white' }),
+    html.H3("Histogramme détaillant la production d'énergie (GWh) par pays client d'edf selon la filière ",style={'textAlign': 'center','color': 'white' }),
     dcc.Graph(figure=deuxiemeFig()),   #pour comprendre , allez voir "scripte_python/graph_deuxiemeFig.py"
     html.Br(),
     html.Br(),
@@ -119,7 +119,7 @@ app.layout = html.Div(children=[
     html.Br(),
     html.Br(),
     
-    html.H3("Carte chloropleth indiquant la production d'électricité par pays ",style={'textAlign': 'center','color': 'white' }),
+    html.H3("Carte chloropleth indiquant la production d'électricité par pays en GWh",style={'textAlign': 'center','color': 'white' }),
     dcc.Graph(figure=figure_chloropleth()),   #pour comprendre , allez voir "scripte_python/mapChloropleth.py"
     
 ], style={'backgroundImage': 'linear-gradient(to bottom, #5e5d5d, #1f1d21)'})  # produit en fond écran , unn dégradé de couleur du gris vers le noir
@@ -153,7 +153,7 @@ def update_diagram(selected_country):
         y='Production',
         render_mode='svg',
         # style = {'backgroundColor': '#FFD700'},
-        labels={'Année': 'Année', 'Production': 'Production '},
+        labels={'Année': 'Année', 'Production': 'Production en GWh '},
         template='plotly_white',
         color_discrete_sequence=['blue']
     )
@@ -194,7 +194,7 @@ def update_diagram(selected_country):
         y='emissions_co2',
         render_mode='svg',
         # style = {'backgroundColor': '#FFD700'},
-        labels={'Année': 'Année', 'emissions_co2': 'emissions_co2'},
+        labels={'Année': 'Année', 'emissions_co2': 'emissions_co2 en ktonnes'},
         template='plotly_white',
         color_discrete_sequence=['blue']
     )
