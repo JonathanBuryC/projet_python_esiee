@@ -5,10 +5,13 @@ import plotly_express as px
 import plotly.graph_objects as go
 import sys
 from dash.dependencies import Input, Output
+import os
 
 
 
-sys.path.append('../projet_pyhton_esiee/scripte_python') 
+
+script_path = os.path.join(os.path.dirname(__file__), 'scripte_python')
+sys.path.append(script_path) 
 from graph_premiereFig import premiereFig               #appel de la fonction qui produit le premier histogramme
 from graph_deuxiemeFig import deuxiemeFig               #appel de la fonction qui produit le second histogramme
 from mapChloropleth import figure_chloropleth           #appel de la fonction qui produit la carte chloropleth
@@ -16,9 +19,15 @@ from API import dataframe_with_api                      #appel de la fonction qu
 
 
 
+CSV_path = os.path.join(os.path.dirname(__file__), 'CSV')
+csv_name_one = 'productions-consolidees-par-pays-du-groupe-edf.csv'
+csv_file_path_one = os.path.join(CSV_path, csv_name_one)
+edf = pd.read_csv(csv_file_path_one,delimiter=';') #dataframe utilisé pour les deux histogrammes
 
-edf = pd.read_csv("../projet_pyhton_esiee/CSV/productions-consolidees-par-pays-du-groupe-edf.csv",delimiter=';')  #dataframe utilisé pour les deux histogrammes
-iso=pd.read_csv("../projet_pyhton_esiee/CSV/all.csv") #dataframe utilisé pour la map chloropleth
+
+csv_name_two= 'all.csv'
+csv_file_path_two = os.path.join(CSV_path, csv_name_two)
+iso=pd.read_csv(csv_file_path_two) #dataframe utilisé pour la map chloropleth
 
 
 edf.columns = [col.strip() for col in edf.columns]   # permet de n epas avoir d'espaces inutiles dans le dataframe "edf"

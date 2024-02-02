@@ -3,9 +3,14 @@ import dash
 from dash import Dash, html, dash_table, dcc,  Input, Output, callback
 import plotly_express as px
 import numpy as np
+import os
 
-
-add_iso_to_edf_pays=pd.read_csv("../projet_pyhton_esiee/CSV/edf_AND_country_AND_iso.csv")
+current_dir = os.path.dirname(os.path.abspath(__file__))   # Construire le chemin relatif au script actuel
+parent_dir = os.path.dirname(current_dir)
+csv_dir = os.path.join(parent_dir, 'CSV')
+csv_file_name = 'edf_AND_country_AND_iso.csv'
+csv_file_path = os.path.join(csv_dir, csv_file_name)
+add_iso_to_edf_pays=pd.read_csv(csv_file_path)
 
 add_iso_to_edf_pays.columns = [col.strip() for col in add_iso_to_edf_pays.columns]  # permet de n epas avoir d'espaces inutiles dans le dataframe "add_iso_to_edf_pays"
 add_iso_to_edf_pays.dropna()

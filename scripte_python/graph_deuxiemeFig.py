@@ -1,7 +1,14 @@
 import plotly_express as px
 import pandas as pd
+import os
 
-edf = pd.read_csv("../projet_pyhton_esiee/CSV/productions-consolidees-par-pays-du-groupe-edf.csv",delimiter=';')
+
+current_dir = os.path.dirname(os.path.abspath(__file__))   # Construire le chemin relatif au script actuel
+parent_dir = os.path.dirname(current_dir)
+csv_dir = os.path.join(parent_dir, 'CSV')
+csv_file_name = 'productions-consolidees-par-pays-du-groupe-edf.csv'
+csv_file_path = os.path.join(csv_dir, csv_file_name)
+edf = pd.read_csv(csv_file_path,delimiter=';')
 edf.columns = [col.strip() for col in edf.columns]  # permet de n epas avoir d'espaces inutiles dans le dataframe "edf"
 colors = {
     'background': '#111111',  # #111111 = noir
